@@ -1,0 +1,2 @@
+Question1:
+-CÓ,Java cho phép tạo chồng các hàm có cùng lớp cùng tên nhưng danh sách tham số khác nhau
